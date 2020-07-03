@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Just getting to know why way around. 
+I had something for breakfast
